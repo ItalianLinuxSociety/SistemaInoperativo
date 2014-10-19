@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="drawing.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -29,23 +29,6 @@
          stop-opacity="0"
          id="stop3197" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       r="350"
-       gradientTransform="matrix(1.8326,-0.034379,0.023888,1.2733,-291.29,129.01)"
-       cx="344.65"
-       cy="166.76"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient3769">
-      <stop
-         offset="0"
-         style="stop-color:#ffffff"
-         id="stop3765" />
-      <stop
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:0"
-         id="stop3767" />
-    </radialGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath2991">
@@ -68,16 +51,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="5.4793105"
-     inkscape:cy="747.58509"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="63.201442"
+     inkscape:cy="581.69"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1366"
+     inkscape:window-height="732"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -87,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -161,7 +144,7 @@
          sodipodi:cx="280"
          sodipodi:cy="579.50507"
          transform="matrix(0.91955,0.078244,-0.062079,0.72958,-670.47,467.72)"
-         d="m 334.28571,579.50507 a 54.285713,41.42857 0 1 1 -108.57142,0 54.285713,41.42857 0 1 1 108.57142,0 z"
+         d="m 334.28571,579.50507 c 0,22.88036 -24.30454,41.42857 -54.28571,41.42857 -29.98117,0 -54.28571,-18.54821 -54.28571,-41.42857 0,-22.88037 24.30454,-41.42857 54.28571,-41.42857 29.98117,0 54.28571,18.5482 54.28571,41.42857 z"
          sodipodi:type="arc"
          style="fill:#fefdfe;stroke:#000000;stroke-width:4.86600018;stroke-linecap:round;stroke-linejoin:round"
          sodipodi:ry="41.42857"
@@ -171,7 +154,7 @@
          sodipodi:cx="509.85794"
          sodipodi:cy="468.24564"
          transform="matrix(1.3823,0.67275,-0.67743,1.3919,-856.1,-109.88)"
-         d="m 522.10678,468.24564 a 12.248839,13.014392 0 1 1 -24.49768,0 12.248839,13.014392 0 1 1 24.49768,0 z"
+         d="m 522.10678,468.24564 c 0,7.18765 -5.48399,13.01439 -12.24884,13.01439 -6.76485,0 -12.24884,-5.82674 -12.24884,-13.01439 0,-7.18765 5.48399,-13.0144 12.24884,-13.0144 6.76485,0 12.24884,5.82675 12.24884,13.0144 z"
          sodipodi:type="arc"
          style="fill:#fefd41;stroke:#000000;stroke-width:2.59299994;stroke-linecap:round;stroke-linejoin:round"
          sodipodi:ry="13.014392"
@@ -181,7 +164,7 @@
          sodipodi:cx="509.85794"
          sodipodi:cy="468.24564"
          transform="matrix(1.2262,0.92719,-0.93364,1.2347,-615.21,-166.03)"
-         d="m 522.10678,468.24564 a 12.248839,13.014392 0 1 1 -24.49768,0 12.248839,13.014392 0 1 1 24.49768,0 z"
+         d="m 522.10678,468.24564 c 0,7.18765 -5.48399,13.01439 -12.24884,13.01439 -6.76485,0 -12.24884,-5.82674 -12.24884,-13.01439 0,-7.18765 5.48399,-13.0144 12.24884,-13.0144 6.76485,0 12.24884,5.82675 12.24884,13.0144 z"
          sodipodi:type="arc"
          style="fill:#fefd41;stroke:#000000;stroke-width:2.59299994;stroke-linecap:round;stroke-linejoin:round"
          sodipodi:ry="13.014392"
@@ -191,7 +174,7 @@
          sodipodi:cx="371.29294"
          sodipodi:cy="549.39423"
          transform="matrix(0.53989,0,0,0.76994,-665.18,453.43)"
-         d="m 376.65181,549.39423 a 5.3588672,5.3588672 0 1 1 -10.71774,0 5.3588672,5.3588672 0 1 1 10.71774,0 z"
+         d="m 376.65181,549.39423 c 0,2.95962 -2.39925,5.35886 -5.35887,5.35886 -2.95962,0 -5.35887,-2.39924 -5.35887,-5.35886 0,-2.95962 2.39925,-5.35887 5.35887,-5.35887 2.95962,0 5.35887,2.39925 5.35887,5.35887 z"
          sodipodi:type="arc"
          style="fill:#000000;stroke:#000000;stroke-width:2.59299994;stroke-linecap:round;stroke-linejoin:round"
          sodipodi:ry="5.3588672"
@@ -201,7 +184,7 @@
          sodipodi:cx="371.29294"
          sodipodi:cy="549.39423"
          transform="matrix(0.53989,0,0,0.76994,-621.54,451.14)"
-         d="m 376.65181,549.39423 a 5.3588672,5.3588672 0 1 1 -10.71774,0 5.3588672,5.3588672 0 1 1 10.71774,0 z"
+         d="m 376.65181,549.39423 c 0,2.95962 -2.39925,5.35886 -5.35887,5.35886 -2.95962,0 -5.35887,-2.39924 -5.35887,-5.35886 0,-2.95962 2.39925,-5.35887 5.35887,-5.35887 2.95962,0 5.35887,2.39925 5.35887,5.35887 z"
          sodipodi:type="arc"
          style="fill:#000000;stroke:#000000;stroke-width:2.59299994;stroke-linecap:round;stroke-linejoin:round"
          sodipodi:ry="5.3588672"
@@ -283,5 +266,172 @@
        inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/sito/img/ragno.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#f5f5f5;fill-opacity:1;stroke:none"
+       id="rect4224"
+       width="484"
+       height="253"
+       x="-358.07816"
+       y="540.70807"
+       inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/img/fb.png"
+       inkscape:export-xdpi="196.16418"
+       inkscape:export-ydpi="196.16418" />
+    <g
+       id="g4240"
+       transform="translate(-451.03028,265.64081)"
+       inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/img/fb.png"
+       inkscape:export-xdpi="196.16418"
+       inkscape:export-ydpi="196.16418">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4226"
+         y="395.10727"
+         x="103.38602"
+         style="font-size:46.04721832px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           y="395.10727"
+           x="103.38602"
+           id="tspan4228"
+           sodipodi:role="line">sistema (in)operativo</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4230"
+         y="351.729"
+         x="103.96868"
+         style="font-size:33.4391098px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="351.729"
+           x="103.96868"
+           id="tspan4232"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">sul mio computer non voglio un</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.42713737px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-116.22961"
+       y="749.80035"
+       id="text4234"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/img/fb.png"
+       inkscape:export-xdpi="196.16418"
+       inkscape:export-ydpi="196.16418"><tspan
+         sodipodi:role="line"
+         id="tspan4236"
+         x="-116.22961"
+         y="749.80035"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">sistemainoperativo.it</tspan><tspan
+         sodipodi:role="line"
+         x="-116.22961"
+         y="767.83429"
+         id="tspan4238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">#sistemainoperativo</tspan></text>
+    <rect
+       style="fill:#f5f5f5;fill-opacity:1;stroke:none"
+       id="rect4258"
+       width="120"
+       height="120"
+       x="-183.51477"
+       y="906.20807"
+       inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/img/tw.png"
+       inkscape:export-xdpi="196.16418"
+       inkscape:export-ydpi="196.16418" />
+    <g
+       id="g4280"
+       transform="translate(-450.02645,293.83541)"
+       inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/img/tw.png"
+       inkscape:export-xdpi="196.16418"
+       inkscape:export-ydpi="196.16418">
+      <text
+         xml:space="preserve"
+         style="font-size:18.79435349px;font-style:normal;font-weight:normal;line-height:91.00000262%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="269.60095"
+         y="679.92535"
+         id="text4262"
+         sodipodi:linespacing="91.000003%"><tspan
+           sodipodi:role="line"
+           id="tspan4264"
+           x="269.60095"
+           y="679.92535"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:91.00000262%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">sistema</tspan><tspan
+           id="tspan4274"
+           sodipodi:role="line"
+           x="269.60095"
+           y="697.0282"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:91.00000262%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">(in)operativo</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4276"
+         y="657.82043"
+         x="268.97833"
+         style="font-size:19.32561684px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           y="657.82043"
+           x="268.97833"
+           id="tspan4278"
+           sodipodi:role="line">non voglio un</tspan></text>
+    </g>
+    <rect
+       style="fill:#f5f5f5;fill-opacity:1;stroke:none"
+       id="rect4352"
+       width="180"
+       height="150"
+       x="39.485229"
+       y="1015.2081"
+       inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/img/banner.png"
+       inkscape:export-xdpi="196.16418"
+       inkscape:export-ydpi="196.16418" />
+    <text
+       inkscape:export-ydpi="196.16418"
+       inkscape:export-xdpi="196.16418"
+       inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/img/banner.png"
+       sodipodi:linespacing="125%"
+       id="text4371"
+       y="1147.8004"
+       x="129.33374"
+       style="font-size:14.42713737px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="tspan4375"
+         y="1147.8004"
+         x="129.33374"
+         sodipodi:role="line">sistemainoperativo.it</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.81327629px;font-style:normal;font-weight:normal;line-height:91.00000262%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="48.292572"
+       y="1081.7994"
+       id="text4381"
+       sodipodi:linespacing="91.000003%"
+       inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/img/banner.png"
+       inkscape:export-xdpi="196.16418"
+       inkscape:export-ydpi="196.16418"><tspan
+         sodipodi:role="line"
+         id="tspan4383"
+         x="48.292572"
+         y="1081.7994"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:91.00000262%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">sistema</tspan><tspan
+         id="tspan4385"
+         sodipodi:role="line"
+         x="48.292572"
+         y="1106.1996"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:91.00000262%;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">(in)operativo</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4387"
+       y="1054.2631"
+       x="47.404327"
+       style="font-size:27.57121277px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/madbob/lavoro/ILS/2014/sistemainoperativo/img/banner.png"
+       inkscape:export-xdpi="196.16418"
+       inkscape:export-ydpi="196.16418"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         y="1054.2631"
+         x="47.404327"
+         id="tspan4389"
+         sodipodi:role="line">non voglio un</tspan></text>
   </g>
 </svg>
